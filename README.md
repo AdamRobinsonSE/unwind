@@ -20,12 +20,12 @@ This is a WIP. The basic functionality is there and its my take on a bourbon ver
 
 ## Login Page
 
-![alt tag](https://github.com/AdamRobinsonSE/accelerated-results-cookbook/blob/main/public/images/add-recipe-readmin-screenshot.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/unwind/blob/main/public/imgs/readme-login-screenshot.PNG)
 
-## Add Bourbon
+## Profile/Add Bourbon Page
 
-![alt tag](https://github.com/AdamRobinsonSE/accelerated-results-cookbook/blob/main/public/images/add-recipe-readmin-screenshot.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/unwind/blob/main/public/imgs/readme-profile-screenshot.PNG)
 
 ## Bourbon Page
 
-![alt tag](https://github.com/AdamRobinsonSE/accelerated-results-cookbook/blob/main/public/images/recipe-table-readme-screenshots.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/unwind/blob/main/public/imgs/readme-bourbon-checkin-screenshot.PNG)
