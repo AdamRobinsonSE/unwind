@@ -1,20 +1,31 @@
-# Install
+# Unwind # 
+A fully responsive and beautiful website to track which bourbons you've had and love.
 
-`npm install`
+## Link to project 
 
----
+This is a WIP. The basic functionality is there and its my take on a bourbon version of untapped. I'm not much of a beer guy - but I would love a spot to track which bourbons I've had and what my friends have. You can add bourbons, delete them, comment on them, and see a fee of other users and what bourbons they've submitted. There is a lot of styling to be done (see below!), as well as more functionality to add. 
 
-# Things to add
+## How It's Made:
 
-- Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+**Tech used:** HTML, CSS, JavaScript, Node, Express, MongoDB, React (currently is EJS, switching this out)
 
----
+## Optimizations
 
-# Run
+1. Ability to add your friends and see what they've had.
+2. Ability to add a bourbon to a list of ones to keep an eye out for.
+3. Ability to say where you had it or where you purchased it.
+4. Ability to edit your bourbon check-in
+4. Search functionality to see what you've had and what friends have had. 
+4. Endless styling!
 
-`npm start`
+## Login Page
+
+![alt tag](https://github.com/AdamRobinsonSE/accelerated-results-cookbook/blob/main/public/images/add-recipe-readmin-screenshot.PNG)
+
+## Add Bourbon
+
+![alt tag](https://github.com/AdamRobinsonSE/accelerated-results-cookbook/blob/main/public/images/add-recipe-readmin-screenshot.PNG)
+
+## Bourbon Page
+
+![alt tag](https://github.com/AdamRobinsonSE/accelerated-results-cookbook/blob/main/public/images/recipe-table-readme-screenshots.PNG)
