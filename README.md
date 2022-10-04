@@ -1,6 +1,6 @@
 # Unwind # 
 
-This is a WIP. The basic functionality is there and its my take on a bourbon version of untapped. I'm not much of a beer guy - but I would love a spot to track which bourbons I've had and what my friends have. You can add bourbons, delete them, comment on them, and see a fee of other users and what bourbons they've submitted. There is a lot of styling to be done (see below!), as well as more functionality to add. 
+This is a WIP. Keeping true to myself I prefer to work on the functionality before any styling. As you can see, its something less than desired, but the barebones are there! The basic functionality is there and its my take on a bourbon version of untapped. I'm not much of a beer guy - but I would love a spot to track which bourbons I've had and what my friends have. You can add bourbons, delete them, comment on them, and see a fee of other users and what bourbons they've submitted. There is a lot of styling to be done (see below!), as well as more functionality to add. 
 
 ## How It's Made:
 
