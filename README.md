@@ -1,7 +1,4 @@
 # Unwind # 
-A fully responsive and beautiful website to track which bourbons you've had and love.
-
-## Link to project 
 
 This is a WIP. The basic functionality is there and its my take on a bourbon version of untapped. I'm not much of a beer guy - but I would love a spot to track which bourbons I've had and what my friends have. You can add bourbons, delete them, comment on them, and see a fee of other users and what bourbons they've submitted. There is a lot of styling to be done (see below!), as well as more functionality to add. 
 
